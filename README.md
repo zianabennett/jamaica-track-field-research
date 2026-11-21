@@ -6,9 +6,15 @@ What kinds of institutional support are documented around the transition from sc
 
 **The result is a map of documented support functions.** It does not track individual athletes through a development pathway or estimate which institution produces the best outcomes. The sample contains 11 primary-source pages and 19 institution-function assignments across eight coding categories. [View the reproduced results](results/summary.md).
 
-## Background and authorship
+## My role and the original context
 
-Ziana Bennett worked as a USOAR research assistant with Professor Kisha Lashley on Jamaica's track and field ecosystem. This repository is a **new portfolio extension assembled in November 2026 through an AI-assisted research workflow**. It does not reproduce the original USOAR research question, dataset, unpublished material, or findings. No claim is made that these files were produced during that earlier role or endorsed by the research supervisor.
+**UVA McIntire · USOAR Research Assistant · 2023–2024**
+
+My original research-assistant role with Professor Kisha Lashley focused on Jamaica's track and field ecosystem. This portfolio extension returns to that subject through a narrower public-source question and documents the method from source selection to coded observations.
+
+The present source register, analysis code, and findings were created for the portfolio in 2026. They show how I would make a research question and its evidence understandable to another reader; they do not reconstruct the original study's unpublished work.
+
+[Portfolio overview](https://zianabennett.github.io/#work) · [Experience and leadership](https://zianabennett.github.io/#experience)
 
 ## What the evidence shows
 
