@@ -1,0 +1,56 @@
+{
+  "schema_version": 1,
+  "snapshot_date": "2026-11-20",
+  "unit_of_analysis": "Institution, counted once per documented support function",
+  "entity_types": {
+    "school_sports_association": "School sports association",
+    "athletics_federation": "National athletics federation",
+    "tertiary_institution": "Tertiary education institution",
+    "public_sports_body": "Public sports body",
+    "olympic_association": "National Olympic association"
+  },
+  "roles": [
+    {
+      "id": "competition",
+      "label": "Competition access or delivery",
+      "definition": "Explicitly organises athletics competition or provides a programme through which athletes participate in competition. A general interest in sport is insufficient."
+    },
+    {
+      "id": "training",
+      "label": "Athlete training",
+      "definition": "Explicitly describes athlete training or an athletics development and training programme. Funding training alone does not qualify."
+    },
+    {
+      "id": "coach_education",
+      "label": "Coach or official education",
+      "definition": "Explicitly offers education, certification, or development for coaches or athletics officials. General academic study alone does not qualify."
+    },
+    {
+      "id": "facilities",
+      "label": "Facilities or infrastructure support",
+      "definition": "Explicitly provides athletics facilities or funds sports infrastructure. The code does not establish access, condition, capacity, or utilisation."
+    },
+    {
+      "id": "funding",
+      "label": "Financial support",
+      "definition": "Explicitly funds sports organisations, programmes, or athletes, including scholarships. This code describes a documented mechanism, not a funding amount."
+    },
+    {
+      "id": "governance",
+      "label": "Governance or representation",
+      "definition": "Explicitly acts as the national athletics governing body or the national Olympic committee. Other regulatory activity is coded separately under clean sport."
+    },
+    {
+      "id": "welfare",
+      "label": "Health or welfare support",
+      "definition": "Explicitly describes athlete well-being services, sports medicine, or an athlete welfare fund. It does not establish a medical benefit."
+    },
+    {
+      "id": "clean_sport",
+      "label": "Clean sport education or testing",
+      "definition": "Explicitly describes anti-doping education or testing for athletes or their support personnel."
+    }
+  ],
+  "coding_rule": "Assign a role only when an included primary source explicitly supports it. Absence of a code means not established in this bounded corpus, not that the institution lacks the function.",
+  "sampling_rule": "Purposive sample spanning school competition, tertiary institutions, national athletics administration, and cross-sport support. This is not a census or a representative sample."
+}

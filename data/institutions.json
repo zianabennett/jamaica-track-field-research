@@ -1,0 +1,153 @@
+[
+  {
+    "id": "ISSA",
+    "name": "Inter-Secondary Schools Sports Association",
+    "entity_type": "school_sports_association",
+    "roles": [
+      {
+        "role_id": "competition",
+        "source_ids": ["S01", "S02"],
+        "observation": "ISSA lists school athletics competitions; JAAA identifies it as the Boys and Girls Championships organiser."
+      }
+    ]
+  },
+  {
+    "id": "JAAA",
+    "name": "Jamaica Athletics Administrative Association",
+    "entity_type": "athletics_federation",
+    "roles": [
+      {
+        "role_id": "competition",
+        "source_ids": ["S03"],
+        "observation": "Its overview states that it organises athletics competitions in Jamaica."
+      },
+      {
+        "role_id": "coach_education",
+        "source_ids": ["S03"],
+        "observation": "It describes World Athletics education and certification opportunities for coaches and officials."
+      },
+      {
+        "role_id": "governance",
+        "source_ids": ["S03"],
+        "observation": "It identifies itself as Jamaica's national athletics governing body."
+      }
+    ]
+  },
+  {
+    "id": "UTECH",
+    "name": "University of Technology Jamaica",
+    "entity_type": "tertiary_institution",
+    "roles": [
+      {
+        "role_id": "competition",
+        "source_ids": ["S04"],
+        "observation": "Track and field appears among its intercollegiate programmes."
+      },
+      {
+        "role_id": "training",
+        "source_ids": ["S04"],
+        "observation": "Its Back Field description explicitly includes athlete training."
+      },
+      {
+        "role_id": "facilities",
+        "source_ids": ["S04"],
+        "observation": "The Back Field is described as a track and field venue."
+      },
+      {
+        "role_id": "welfare",
+        "source_ids": ["S04"],
+        "observation": "The department describes support for athletes' physical and mental well-being."
+      }
+    ]
+  },
+  {
+    "id": "UWI_MONA",
+    "name": "University of the West Indies Mona",
+    "entity_type": "tertiary_institution",
+    "roles": [
+      {
+        "role_id": "competition",
+        "source_ids": ["S05"],
+        "observation": "Its sports page lists track and field and student competition opportunities."
+      },
+      {
+        "role_id": "training",
+        "source_ids": ["S05"],
+        "observation": "It describes an Athletics Development and Training division."
+      },
+      {
+        "role_id": "facilities",
+        "source_ids": ["S05"],
+        "observation": "It identifies a track among the Mona Bowl facilities."
+      },
+      {
+        "role_id": "welfare",
+        "source_ids": ["S05"],
+        "observation": "The page describes student-athlete access to sports medicine facilities."
+      }
+    ]
+  },
+  {
+    "id": "GCF",
+    "name": "G C Foster College of Physical Education and Sport",
+    "entity_type": "tertiary_institution",
+    "roles": [
+      {
+        "role_id": "coach_education",
+        "source_ids": ["S06"],
+        "observation": "Its advanced coaching course emphasises programme design, including track and field."
+      }
+    ]
+  },
+  {
+    "id": "JADCO",
+    "name": "Jamaica Anti-Doping Commission",
+    "entity_type": "public_sports_body",
+    "roles": [
+      {
+        "role_id": "clean_sport",
+        "source_ids": ["S07", "S08"],
+        "observation": "JADCO describes athlete testing and reports 2026 anti-doping workshops involving high-school students and support personnel."
+      }
+    ]
+  },
+  {
+    "id": "SDF",
+    "name": "Sports Development Foundation",
+    "entity_type": "public_sports_body",
+    "roles": [
+      {
+        "role_id": "facilities",
+        "source_ids": ["S09"],
+        "observation": "Its funding remit includes school, community, and national sports infrastructure."
+      },
+      {
+        "role_id": "funding",
+        "source_ids": ["S09"],
+        "observation": "Its remit includes funding sporting associations, programmes, and G C Foster College."
+      },
+      {
+        "role_id": "welfare",
+        "source_ids": ["S09"],
+        "observation": "Its description includes an athlete welfare fund across sports."
+      }
+    ]
+  },
+  {
+    "id": "JOA",
+    "name": "Jamaica Olympic Association",
+    "entity_type": "olympic_association",
+    "roles": [
+      {
+        "role_id": "funding",
+        "source_ids": ["S11"],
+        "observation": "A September 2026 announcement describes Olympic Solidarity scholarships supporting high-performance preparation."
+      },
+      {
+        "role_id": "governance",
+        "source_ids": ["S10"],
+        "observation": "It identifies itself as Jamaica's national Olympic committee overseeing Olympic participation."
+      }
+    ]
+  }
+]
