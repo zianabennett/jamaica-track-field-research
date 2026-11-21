@@ -1,0 +1,123 @@
+[
+  {
+    "id": "S01",
+    "title": "Sports and Competitions",
+    "publisher": "Inter-Secondary Schools Sports Association",
+    "url": "https://issasports.com/sports/?sport=Track+and+Field",
+    "accessed": "2026-11-20",
+    "publication_date": null,
+    "primary_source_basis": "The school sports association's own competition directory.",
+    "relevant_section": "Competition list including Boys Champs and Girls Champs for the 2026 season",
+    "limitation": "The directory mixes current and historical entries. No count of events is inferred."
+  },
+  {
+    "id": "S02",
+    "title": "ISSA Grace Kennedy Boys and Girls Championships",
+    "publisher": "Jamaica Athletics Administrative Association",
+    "url": "https://athleticsja.org/events/issa-grace-kennedy-boys-and-girls-championships/",
+    "accessed": "2026-11-20",
+    "publication_date": null,
+    "primary_source_basis": "The national athletics federation's official event record.",
+    "relevant_section": "Organiser field and results section",
+    "limitation": "The displayed 2026 event is past. It supports organiser identification, not a future schedule."
+  },
+  {
+    "id": "S03",
+    "title": "About JAAA",
+    "publisher": "Jamaica Athletics Administrative Association",
+    "url": "https://athleticsja.org/about/",
+    "accessed": "2026-11-20",
+    "publication_date": null,
+    "primary_source_basis": "The federation's own institutional overview.",
+    "relevant_section": "Promote, Develop and Regulate; Coaches and Officials Education",
+    "limitation": "This is a role description. Delivery volume and programme effectiveness are not measured."
+  },
+  {
+    "id": "S04",
+    "title": "Department of Sports",
+    "publisher": "University of Technology Jamaica",
+    "url": "https://www.utech.edu.jm/campus-life/department-of-sports/",
+    "accessed": "2026-11-20",
+    "publication_date": null,
+    "primary_source_basis": "The university's own department description.",
+    "relevant_section": "Department introduction and Back Field",
+    "limitation": "Descriptions do not establish current capacity, access terms, or outcomes."
+  },
+  {
+    "id": "S05",
+    "title": "Sports and Recreation",
+    "publisher": "University of the West Indies Mona",
+    "url": "https://www.mona.uwi.edu/sports-and-recreation",
+    "accessed": "2026-11-20",
+    "publication_date": null,
+    "primary_source_basis": "The university's own campus sports description.",
+    "relevant_section": "Sport and Pelicans Soar",
+    "limitation": "The page retains a COVID-era availability notice. Its described functions are coded; current operational availability is unverified."
+  },
+  {
+    "id": "S06",
+    "title": "Short Courses",
+    "publisher": "G C Foster College of Physical Education and Sport",
+    "url": "https://gcfc.edu.jm/short-courses/",
+    "accessed": "2026-11-20",
+    "publication_date": null,
+    "primary_source_basis": "The college's own course description.",
+    "relevant_section": "Advanced Coaching Development Programme",
+    "limitation": "No current intake, completion rate, or effect on coaching performance is established."
+  },
+  {
+    "id": "S07",
+    "title": "JADCO Testing Programme",
+    "publisher": "Jamaica Anti-Doping Commission",
+    "url": "https://jadco.gov.jm/jadcos-testing-programme/",
+    "accessed": "2026-11-20",
+    "publication_date": null,
+    "primary_source_basis": "The national anti-doping agency's own programme description.",
+    "relevant_section": "Programme introduction and Who Does JADCO Test",
+    "limitation": "Testing coverage, compliance rates, and individual eligibility are not analysed."
+  },
+  {
+    "id": "S08",
+    "title": "JADCO Expands Junior Athletes Anti-Doping Education Workshops",
+    "publisher": "Jamaica Anti-Doping Commission",
+    "url": "https://jadco.gov.jm/news/jadco-expands-junior-athletes-anti-doping-education-workshops-with-inaugural-quiz-four-schools-claim-regional-titles/",
+    "accessed": "2026-11-20",
+    "publication_date": "2026-11-05",
+    "primary_source_basis": "The agency reports its own completed workshop programme.",
+    "relevant_section": "Opening account of the 2026 junior-athlete workshops",
+    "limitation": "The report establishes an activity, not independently evaluated learning or behaviour change."
+  },
+  {
+    "id": "S09",
+    "title": "What We Fund",
+    "publisher": "Sports Development Foundation",
+    "url": "https://sdf.org.jm/the-foundation/what-we-fund",
+    "accessed": "2026-11-20",
+    "publication_date": null,
+    "primary_source_basis": "The public body's own funding remit.",
+    "relevant_section": "What We Fund list",
+    "limitation": "The remit covers multiple sports. No track-and-field allocation or current budget is inferred."
+  },
+  {
+    "id": "S10",
+    "title": "Jamaica Olympic Association",
+    "publisher": "Jamaica Olympic Association",
+    "url": "https://joa.org.jm/",
+    "accessed": "2026-11-20",
+    "publication_date": null,
+    "primary_source_basis": "The association's official description of its role.",
+    "relevant_section": "Who We Are",
+    "limitation": "Its remit is cross-sport. No athletics selection rule is inferred."
+  },
+  {
+    "id": "S11",
+    "title": "Olympic Solidarity Scholarship Awards",
+    "publisher": "Jamaica Olympic Association",
+    "url": "https://joa.org.jm/olympic-solidarity-scholarship-awards/",
+    "accessed": "2026-11-20",
+    "publication_date": "2026-09-10",
+    "primary_source_basis": "The association's announcement of scholarship awards.",
+    "relevant_section": "Award announcement",
+    "limitation": "The text does not identify an athletics-specific award count or amount. Neither is inferred."
+  }
+]
